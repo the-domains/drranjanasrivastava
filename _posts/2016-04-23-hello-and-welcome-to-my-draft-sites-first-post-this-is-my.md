@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Hello and welcome to my draft site's first post. This is my most recent article published in The Guardian."
-datePublished: '2016-04-23T10:51:05.475Z'
-dateModified: '2016-04-23T10:50:41.339Z'
+datePublished: '2016-04-23T10:56:29.020Z'
+dateModified: '2016-04-23T10:55:59.830Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-hello-and-welcome-to-my-draft-sites-first-post-this-is-my.md
@@ -22,6 +22,8 @@ url: hello-and-welcome-to-my-draft-sites-first-post-this-is-my/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a7151d-8b59-4fba-a294-a1abc251551c.jpg)
+
 Hello and welcome to my draft site's first post. This is my most recent article published in The Guardian.
 
 More to come!
