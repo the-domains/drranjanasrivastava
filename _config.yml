@@ -1,6 +1,6 @@
 name: drranjanasrivastava
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.9552
 typography_spectrum: 0.61024
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9acefe'
     - '#000102'
     - '#77a155'
-  brandStrength: 0.4375
+  brandStrength: 0.125
   lightness: 0.75
   saturation: 0.8125
   rhythmicContrast: 0
