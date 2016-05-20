@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.abc.net.au/local/stories/2015/08/13/4292531.htm'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - ranjana
@@ -16,12 +15,13 @@ keywords:
   - mid-life
   - over-diagnosis
 description: Interview on Radio National
-datePublished: '2016-05-20T06:17:35.721Z'
-dateModified: '2016-05-20T06:17:25.543Z'
+datePublished: '2016-05-20T06:24:34.689Z'
+dateModified: '2016-05-20T06:24:28.841Z'
 author: []
 related: []
 app_links: []
 title: 'Oncologist Ranjana Srivastava: telling the truth about life and death'
+sourcePath: _posts/2016-05-20-oncologist-ranjana-srivastava-telling-the-truth-about-life.md
 authors: []
 publisher:
   name: Conversations with Richard Fidler
@@ -29,7 +29,7 @@ publisher:
   url: 'http://www.abc.net.au'
   favicon: 'http://www.abc.net.au/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-20-oncologist-ranjana-srivastava-telling-the-truth-about-life.md
+url: oncologist-ranjana-srivastava-telling-the-truth-about-life/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
