@@ -49,8 +49,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://www.theguardian.com/commentisfree/2016/may/10/doctors-as-an-arm-of-border-protection-thats-a-step-too-far'
 title: "Doctors as an arm of border protection? That's a step too far | Ranjana Srivastava"
-datePublished: '2016-05-20T02:33:36.984Z'
-dateModified: '2016-05-11T11:30:11.728Z'
+datePublished: '2016-05-20T02:39:54.328Z'
+dateModified: '2016-05-11T11:29:04.939Z'
 starred: false
 sourcePath: _posts/2016-05-20-doctors-as-an-arm-of-border-protection-thats-a-step-too-fa.md
 inFeed: true
