@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Ranjana Srivastava
-    url: 'https://www.theguardian.com/profile/ranjana-srivastava'
-    avatar: {}
-related: []
-publisher:
-  name: the Guardian
-  domain: www.theguardian.com
-  url: 'http://www.theguardian.com'
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theguardian.com/commentisfree/2016/mar/28/when-medical-hierarchy-and-surgeons-egos-compete-with-patients-best-interests'
+inLanguage: en
 keywords:
   - surgeons
   - anaesthetists
@@ -21,7 +16,13 @@ keywords:
   - private
   - cardiac
 description: 'Once upon a time in Sydney there was a plastic surgeon and an anaesthetist. A 32-year-old woman came to the surgeon in search of a nose job, to alter the shape of her nose and fix her sinuses. The surgeon agreed to undertake the cosmetic surgery in a small, private hospital.'
-inLanguage: en
+datePublished: '2016-05-20T06:22:31.900Z'
+dateModified: '2016-05-20T02:37:32.597Z'
+author:
+  - name: Ranjana Srivastava
+    url: 'https://www.theguardian.com/profile/ranjana-srivastava'
+    avatar: {}
+related: []
 app_links:
   - url: 'gnmguardian://commentisfree/2016/mar/28/when-medical-hierarchy-and-surgeons-egos-compete-with-patients-best-interests?contenttype=Article&source=applinks'
     type: ios
@@ -47,16 +48,15 @@ app_links:
     package: '409128287'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://www.theguardian.com/commentisfree/2016/mar/28/when-medical-hierarchy-and-surgeons-egos-compete-with-patients-best-interests'
 title: "When medical hierarchy and surgeons' egos compete with patients' best interests | Ranjana Srivastava"
-datePublished: '2016-05-20T02:37:22.834Z'
-dateModified: '2016-05-20T02:36:49.364Z'
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
-starred: true
 sourcePath: _posts/2016-05-20-when-medical-hierarchy-and-surgeons-egos-compete-with-patie.md
+authors: []
+publisher:
+  name: the Guardian
+  domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
