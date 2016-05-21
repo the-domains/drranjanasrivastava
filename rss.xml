@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Award-winning writer, broadcaster and oncologist]]></title>
-        <description><![CDATA[Award-winning writer, broadcaster and oncologist]]></description>
+        <title><![CDATA[Dr Ranjana Srivastava: Award-winning writer, broadcaster and oncologist]]></title>
+        <description><![CDATA[Dr Ranjana Srivastava: Award-winning writer, broadcaster and oncologist]]></description>
         <link>https://thegrid.ai/drranjanasrivastava/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 13:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 02:41:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drranjanasrivastava/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing Dr Ranjana Srivastava]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fbe4f0-64cb-4c24-af3e-64b845ccd802.jpg">]]></description>
+            <link>http://www.ranjanasrivastava.com/</link>
+            <guid isPermaLink="false">2202eb5e-9b9a-4812-a4a2-094e79da3a5e</guid>
+            <pubDate>Sat, 21 May 2016 02:40:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When medical hierarchy and surgeons' egos compete with patients' best interests | Ranjana Srivastava]]></title>
             <description><![CDATA[<article><h1>When medical hierarchy and surgeons' egos compete with patients' best interests | Ranjana Srivastava</h1><p>Once upon a time in Sydney there was a plastic surgeon and an anaesthetist. A 32-year-old woman came to the surgeon in search of a nose job, to alter the shape of her nose and fix her sinuses. The surgeon agreed to undertake the cosmetic surgery in a small, private hospital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7d970ad10ae9fae44a4646e462793629a821635.jpg"></article>]]></description>
             <link>http://www.theguardian.com/commentisfree/2016/mar/28/when-medical-hierarchy-and-surgeons-egos-compete-with-patients-best-interests</link>
             <guid isPermaLink="false">c3413226-b65b-4ede-8075-051dbe169b89</guid>
             <pubDate>Fri, 20 May 2016 06:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debunking the Fear of Failure: Ranjana Srivastava]]></title>
+            <description><![CDATA[<article><h1>Debunking the Fear of Failure: Ranjana Srivastava</h1><p>Dr Ranjana Srivastava is an oncologist, general physician, educator and an award-winning author. She graduated from Monash University with first class honours and was admitted to the Royal Australiasian Collage of Physicians in 2005. In 2004, she received the prestigious Fulbright Award which she completed at the University of Chicago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f5fb861af0cfb415a73b83c9410c28b861d818.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DwjPRLzrxEs</link>
+            <guid isPermaLink="false">7f9e5a5c-ad76-42ee-b098-710627312f57</guid>
+            <pubDate>Fri, 20 May 2016 13:45:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kate Richards: Madness]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=jiL09T-J_ls</link>
             <guid isPermaLink="false">e71e7056-9d68-4237-a8c7-3ecbaf838025</guid>
             <pubDate>Fri, 20 May 2016 13:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do you tell your children you have cancer?]]></title>
-            <description><![CDATA[<article><h1>How do you tell your children you have cancer?</h1><p>"Make sure you put in some advice about how to tell the kids," a colleague urged me. My first response was: "I don't know if I can. It's such a difficult topic." "You have to," she insisted. "You know how much our patients struggle with this. I know Karen does."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34d9eb83452de1f65c35ca68a714697e3c97eb05.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/society/2015/nov/29/how-do-you-tell-your-children-you-have-cancer</link>
-            <guid isPermaLink="false">55e0d7d0-a871-4d11-a5a4-494619d0d15f</guid>
-            <pubDate>Fri, 20 May 2016 08:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Surviving the cure]]></title>
-            <description><![CDATA[<article><h1>Surviving the cure</h1><p>Life changing: Dr Greg Wheeler with casts of children used to keep them still for radiation therapy to minimise damage to other parts of the brain. Photo: Arsineh Houspian Standing at the doorway you are struck by the mess. Coffee mugs, paper bills and a crushed Fanta can lie scattered among discarded clothes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb85e26efdb894f6adbe32c1b7a3bea050d28cd7.jpg"></article>]]></description>
-            <link>http://www.smh.com.au/national/childhood-cancer-surviving-the-cure-20141130-11xfwu</link>
-            <guid isPermaLink="false">51673f85-001e-415f-b20c-d0d5ecec167b</guid>
-            <pubDate>Fri, 20 May 2016 07:19:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
