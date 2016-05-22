@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T05:25:01.526Z'
-dateModified: '2016-05-22T05:24:22.323Z'
+datePublished: '2016-05-22T06:17:58.957Z'
+dateModified: '2016-05-22T05:25:26.778Z'
 title: The Melbourne Magazine Collection
 author: []
+sourcePath: _posts/2016-05-22-the-melbourne-magazine-collection.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-the-melbourne-magazine-collection.md
 url: the-melbourne-magazine-collection/index.html
 _type: WebPage
 
