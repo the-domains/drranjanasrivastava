@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T06:17:58.957Z'
-dateModified: '2016-05-22T05:25:26.778Z'
+datePublished: '2016-05-23T10:25:16.560Z'
+dateModified: '2016-05-23T10:25:11.927Z'
 title: The Melbourne Magazine Collection
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-22-the-melbourne-magazine-collection.md
 authors: []
 publisher: null
@@ -18,19 +20,19 @@ _type: WebPage
 
 ---
 # The Melbourne Magazine Collection
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ec24faa-3504-4e2c-84f6-7621ba02814d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0454bf42-a965-4611-9227-4cde7ab2339e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e176bd6-bbc8-4e8b-94c0-8a1c38dd8714.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ea44a6-ac31-47dc-899e-67c84fae15eb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c4713c-80b7-401a-b838-a79c2e01a89f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/499894de-7c97-496e-a77a-019325f140b1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b0afd9d-4043-47e3-a70c-ebd66668d2e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a9086ee-7e5c-4560-9759-1421835feedd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a040e5f-7908-4248-8b65-5f835ee0a5dc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec11716-eda9-4f2c-9456-7b144dc94e9a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed2c8f0c-3465-4bf6-bb55-c3cfa5061881.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a7e3eb-37e8-489c-94a2-b3b3aa2ce178.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be8c3fc3-1139-46bf-9884-de1e5a110cfe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/277681c6c611a37720698088e29fa61b483a8a69.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/882b30e84ca537245c4a011308142b2306e6046e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8737095aeb2096982166da709d6dc636467bc401.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e83e299f669d3f21478a371581051fe17c9123.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e81e36e4df4ef307a76ec0446111d5aefb918e9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab22040f0f00b2ea5e79fd6a90e27c8a90b5de57.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9703dda0b3c6e0c40e1bc8fd7c3df5a00fcfddd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec12c56a3be9c7da4c65a8776504aadb7afa8d7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ea2df862c8cf38ba23498e5a090a772f8c97591.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e606ef273d230c87fdff60c35e622bed0c2475b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/589aa7dc24462b2792c5e1c2a194fc38060fdd93.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07c9be51eb3ae9f743d3a5a97948b7d26cb4ff42.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/241cb3754cac93b3f5476f51f687ed7172f3a462.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb4da7a-a49e-4b79-9ad8-819c8d2967a3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fca2c8b-7c62-4af9-80d5-a30b502f0206.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d0b675a-ca69-4f1e-ab88-f6bb7408c263.jpg)
