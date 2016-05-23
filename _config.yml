@@ -34,8 +34,8 @@ color:
     - '#020202'
     - '#2a669e'
     - '#a3a3a3'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.25
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
