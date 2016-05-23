@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery: 9780226306643: Medicine & Health Science Books @ Amazon.com"
-datePublished: '2016-05-22T05:43:13.025Z'
-dateModified: '2016-05-22T05:42:44.884Z'
+datePublished: '2016-05-23T10:26:19.324Z'
+dateModified: '2016-05-22T06:19:30.627Z'
 author: []
 related: []
 app_links: []
@@ -52,7 +52,15 @@ Srivastava contends that the best medicine should begin with a good chat. But ou
 
 <article style=""><h1>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery</h1><p>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery: 9780226306643: Medicine &amp; Health Science Books @ Amazon.com</p><img src="http://ecx.images-amazon.com/images/I/41DR%2BJdU83L.jpg" /></article>
 
+Cancer. It's the diagnosis no one wants to hear. Unfortunately though, these days most of us have known or will know someone who receives it. But what's next? With the diagnosis comes not only fear and uncertainty, but numerous questions, and a lot of unsolicited advice. With esteemed oncologist Ranjana Srivastava is here to help, bringing both experience and honesty to guide cancer patients and their families through this labyrinth of questions and treatments.
 
+With candor and compassion, Srivastava provides an approachable and authoritative reference. She begins with the big questions, like what cancer actually is, and she moves on to offer very practical advice on how to find an oncologist, what to expect during and after treatments, and how to manage pain, diet, and exercise. She discusses in detail the different therapies for cancers and why some cancers are inoperable, and she skillfully addresses the emotional toll of the disease. She speaks clearly and directly to cancer patients, caretakers, and their loved ones, offering straightforward information and insight, something that many oncologists can't always convey in the office.
+
+Equipping readers with the knowledge to make informed decisions at every step of the way,
+
+_A Cancer Companion_
+
+is an indispensable guide by a physician who cares to educate patients as much as she does to treat them.
 
 [0]: https://www.amazon.com/Tell-Me-Truth-Conversations-Patients-ebook/dp/B006O8VGQY?ie=UTF8&keywords=ranjana%20srivastava&qid=1463895116&ref_=sr_1_2&sr=8-2
 [1]: https://www.amazon.com/Dying-Chat-Dr-Ranjana-Srivastava-ebook/dp/B00ADD8DFI?ie=UTF8&keywords=ranjana%20srivastava&qid=1463895116&ref_=sr_1_4&sr=8-4
