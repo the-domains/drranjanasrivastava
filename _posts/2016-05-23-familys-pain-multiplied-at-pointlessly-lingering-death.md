@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.smh.com.au/it-pro/familys-pain-multiplied-at-pointlessly-lingering-death-20100921-15l9m'
 title: "Family's pain multiplied at pointlessly lingering death"
-datePublished: '2016-05-23T10:09:55.001Z'
-dateModified: '2016-05-22T04:57:13.635Z'
+datePublished: '2016-05-23T10:09:55.200Z'
+dateModified: '2016-05-22T04:57:01.529Z'
 starred: false
 sourcePath: _posts/2016-05-23-familys-pain-multiplied-at-pointlessly-lingering-death.md
 inFeed: true
