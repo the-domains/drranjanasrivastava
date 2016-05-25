@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T10:25:16.560Z'
-dateModified: '2016-05-23T10:25:11.927Z'
+datePublished: '2016-05-25T07:22:11.402Z'
+dateModified: '2016-05-25T07:21:39.525Z'
 title: The Melbourne Magazine Collection
 author:
   - name: ''
@@ -20,6 +20,8 @@ _type: WebPage
 
 ---
 # The Melbourne Magazine Collection
+
+2012
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/277681c6c611a37720698088e29fa61b483a8a69.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/882b30e84ca537245c4a011308142b2306e6046e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8737095aeb2096982166da709d6dc636467bc401.jpg)
