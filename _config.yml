@@ -1,5 +1,8 @@
+name: Dr Ranjana Srivastava
+favicon: null
+layout_spectrum: 0.95423
+typography_spectrum: 1
 title: 'Dr Ranjana Srivastava: Fulbright Scholar, award-winning writer, broadcaster and oncologist'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.5440387
-  lightness: 0.7341568
   brandColors:
     - '#E7DFDC'
     - '#821818'
     - '#A89F96'
     - '#816943'
     - '#1F0200'
+  brandStrength: 0.5440387
+  lightness: 0.7341568
+  saturation: 0.75
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Dr Ranjana Srivastava
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.6482278
+purpose: []
