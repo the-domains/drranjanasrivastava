@@ -5,18 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: New England Journal of Medicine articles
-datePublished: '2016-05-26T01:53:47.888Z'
-dateModified: '2016-05-26T01:53:47.223Z'
+datePublished: '2016-07-20T11:50:07.561Z'
+dateModified: '2016-07-20T11:50:03.235Z'
 title: ''
+author: []
+sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
 authors: []
 publisher: null
-author: []
-starred: false
-sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
+starred: true
 url: new-england-journal-of-medicine-articles/index.html
 _type: WebPage
 
 ---
 **New England Journal of Medicine articles**
 
-**Stuff goes here!**
+**[A Bridge to Nowhere][0]**
+
+[0]: https://drive.google.com/file/d/0BxOSd6jlyjxzUmlQek9CaUxUeFk/view?usp=sharing
