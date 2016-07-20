@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-25T07:30:33.045Z'
-dateModified: '2016-05-25T07:30:32.149Z'
+datePublished: '2016-07-20T11:54:33.609Z'
+dateModified: '2016-07-20T11:54:30.580Z'
 title: The Melbourne Magazine Collection
 author:
   - name: ''
