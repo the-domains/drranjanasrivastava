@@ -20,7 +20,12 @@ keywords:
   - ethical
   - seminar
   - rntv
-description: "\"When Good Intentions Aren't Enough: Barriers to Optimal End-of-Life Care\" Ranjana Srivastava, MD Medical Oncologist, Educator and Award-winning Writer, and Columnist for The Guardian MacLean Center Seminar Series 2014-2015 Ethical Issues in End-of-Life Care This lecture is one of 27 in this year's seminar series."
+description: >-
+  "When Good Intentions Aren't Enough: Barriers to Optimal End-of-Life Care"
+  Ranjana Srivastava, MD Medical Oncologist, Educator and Award-winning Writer,
+  and Columnist for The Guardian MacLean Center Seminar Series 2014-2015 Ethical
+  Issues in End-of-Life Care This lecture is one of 27 in this year's seminar
+  series.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aT2VX1kb9AQ&feature=applinks'
@@ -59,15 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=aT2VX1kb9AQ'
 title: Ranjana Srivastava MD
-datePublished: '2016-05-20T13:42:38.665Z'
-dateModified: '2016-05-20T13:37:40.670Z'
-starred: false
+datePublished: '2016-08-24T05:51:29.926Z'
+dateModified: '2016-08-24T05:51:28.947Z'
 sourcePath: _posts/2016-05-20-ranjana-srivastava-md.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: ranjana-srivastava-md/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
