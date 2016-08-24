@@ -1,15 +1,12 @@
 ---
-author:
-  - name: Ranjana Srivastava
-    url: 'https://www.theguardian.com/profile/ranjana-srivastava'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.theguardian.com'
-  name: the Guardian
-  favicon: >-
-    https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico
-  domain: www.theguardian.com
+datePublished: '2016-08-24T05:50:52.233Z'
+sourcePath: >-
+  _posts/2016-08-11-hospital-crises-show-the-gap-between-how-doctors-and-patient.md
+inFeed: true
+isBasedOnUrl: >-
+  https://www.theguardian.com/commentisfree/2016/aug/11/hospital-crises-show-the-gap-between-how-doctors-and-patients-perceive-events
+authors: []
+hasPage: false
 keywords:
   - doctor
   - patients
@@ -21,12 +18,16 @@ keywords:
   - chemotherapy
   - hospitals
   - care
-description: >-
-  As a relatively young oncologist I saw a patient scheduled for surgery that
-  morning. I didn't know him but he was on my list because he needed
-  chemotherapy. The story seemed routine enough but when I walked in, I found
-  that the relatively young man looked terrible.
-inLanguage: en
+related: []
+author:
+  - name: Ranjana Srivastava
+    url: 'https://www.theguardian.com/profile/ranjana-srivastava'
+    avatar: {}
+via: {}
+dateModified: '2016-08-24T05:50:51.425Z'
+title: >-
+  Hospital crises show the gap between how doctors and patients perceive events
+  | Ranjana Srivastava
 app_links:
   - url: >-
       gnmguardian://commentisfree/2016/aug/11/hospital-crises-show-the-gap-between-how-doctors-and-patients-perceive-events?contenttype=Article&source=applinks
@@ -57,23 +58,22 @@ app_links:
     package: '409128287'
     namespace: google
     type: ios
-isBasedOnUrl: >-
-  https://www.theguardian.com/commentisfree/2016/aug/11/hospital-crises-show-the-gap-between-how-doctors-and-patients-perceive-events
-title: >-
-  Hospital crises show the gap between how doctors and patients perceive events
-  | Ranjana Srivastava
-datePublished: '2016-08-11T12:07:21.267Z'
-dateModified: '2016-08-11T12:07:10.020Z'
-via: {}
-inFeed: true
-hasPage: false
+publisher:
+  url: 'https://www.theguardian.com'
+  name: the Guardian
+  favicon: >-
+    https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico
+  domain: www.theguardian.com
+description: >-
+  As a relatively young oncologist I saw a patient scheduled for surgery that
+  morning. I didn't know him but he was on my list because he needed
+  chemotherapy. The story seemed routine enough but when I walked in, I found
+  that the relatively young man looked terrible.
+inLanguage: en
 inNav: false
-authors: []
 starred: true
-sourcePath: >-
-  _posts/2016-08-11-hospital-crises-show-the-gap-between-how-doctors-and-patient.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Hospital crises show the gap between how doctors and patients perceive events | Ranjana Srivastava</h1><p>As a relatively young oncologist I saw a patient scheduled for surgery that morning. I didn't know him but he was on my list because he needed chemotherapy. The story seemed routine enough but when I walked in, I found that the relatively young man looked terrible.</p><img src="https://i.guim.co.uk/img/media/50350468b8af696550984d3bee06a7e30fb2463e/0_96_4121_2473/4121.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ad21c514fe8e63b8d2e2091d627ffe68" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cf744d72dd2a011a268548e2678e329/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F50350468b8af696550984d3bee06a7e30fb2463e%2F0_96_4121_2473%2F4121.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3Dad21c514fe8e63b8d2e2091d627ffe68" /><h1>Hospital crises show the gap between how doctors and patients perceive events | Ranjana Srivastava</h1><p>As a relatively young oncologist I saw a patient scheduled for surgery that morning. I didn't know him but he was on my list because he needed chemotherapy. The story seemed routine enough but when I walked in, I found that the relatively young man looked terrible.</p></article>
