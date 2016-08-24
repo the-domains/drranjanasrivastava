@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   url: 'https://www.youtube.com/'
   name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 keywords:
   - duration
@@ -65,10 +65,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=CWg90-oOZ3I'
 title: STRESS AND CANCER
-datePublished: '2016-07-04T01:23:23.387Z'
-dateModified: '2016-07-04T01:23:13.624Z'
-starred: true
+datePublished: '2016-08-24T06:16:50.546Z'
+dateModified: '2016-08-24T06:16:50.211Z'
 sourcePath: _posts/2016-07-04-stress-and-cancer.md
+via: {}
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
