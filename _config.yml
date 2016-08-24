@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Video
+    id: 7c2d20e4-cbc3-4a81-993a-fb8e9fc22cd3
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
 collections:
