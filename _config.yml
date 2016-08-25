@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Audio Highlights
-    id: a570aa87-fbbe-42a3-8476-152c71daa1fb
-    type: content
   - name: Video
     id: 7c2d20e4-cbc3-4a81-993a-fb8e9fc22cd3
     type: content
