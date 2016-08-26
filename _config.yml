@@ -1,8 +1,19 @@
+layout_spectrum: 0.7922928428743035
+typography_spectrum: 0.674143749056384
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.6906950508709997
+  lightness: 0.30970555753447115
+  saturation: 0.9436941822059453
+  rhythmicContrast: 0.6321642177645117
 name: Dr Ranjana Srivastava
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
-layout_spectrum: 0.7922928428743035
-typography_spectrum: 0.8611337407492101
 description: 'Fulbright Scholar, Oncologist, Writer & Broadcaster'
 collections:
   - index:
@@ -29,15 +40,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-  brandStrength: 0.5301660664845258
-  lightness: 0.6403344532009214
-  saturation: 0.1122840428724885
-  rhythmicContrast: 0.4794575402047485
 purpose: []
