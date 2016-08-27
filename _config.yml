@@ -19,6 +19,9 @@ analytics:
   google: UA-83191934-1
   facebook: null
   twitter: null
+author:
+  name: Ranjana Srivastava
+  email: feedbacksriv@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a8a121-3c15-40a6-bead-d333dd482a6c.png
 name: Dr Ranjana Srivastava
@@ -40,6 +43,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Fulbright Scholar, Oncologist, Writer and Broadcaster'
+title: Dr Ranjana Srivastava
 description: 'Fulbright Scholar, Oncologist, Writer & Broadcaster'
 purpose: []
