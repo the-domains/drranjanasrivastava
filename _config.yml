@@ -1,4 +1,3 @@
-layout_spectrum: 0.8406360591761768
 typography_spectrum: 0.8735414945986122
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8406360591761768
 analytics:
   google: UA-83191934-1
   facebook: null
@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: NEJM
+    id: 116f95a4-5111-4d62-b097-6fe3e8804094
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
 collections:
