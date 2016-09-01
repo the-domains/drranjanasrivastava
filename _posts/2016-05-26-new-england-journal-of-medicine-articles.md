@@ -1,17 +1,17 @@
 ---
 id: 116f95a4-5111-4d62-b097-6fe3e8804094
-dateModified: '2016-08-30T09:48:17.555Z'
+dateModified: '2016-08-30T09:52:19.907Z'
 title: >-
   The NEJM is published by the Massachusetts Medical Society and is among the
   most prestigious peer-reviewed medical journals and the oldest continuously
   published one.
-datePublished: '2016-08-30T09:50:35.246Z'
+datePublished: '2016-08-30T09:52:21.836Z'
 author: []
 description: A Bridge to Nowhere
 publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
