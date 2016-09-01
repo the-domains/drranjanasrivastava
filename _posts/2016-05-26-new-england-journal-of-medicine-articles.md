@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-08-30T05:13:07.028Z'
+datePublished: '2016-08-30T06:35:08.323Z'
+sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T05:13:06.224Z'
+dateModified: '2016-08-30T06:35:07.345Z'
 title: ''
 id: 116f95a4-5111-4d62-b097-6fe3e8804094
 publisher: {}
 description: New England Journal of Medicine articles
 starred: true
-sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: nejm/index.html
+_type: Blurb
 
 ---
 **New England Journal of Medicine articles**
