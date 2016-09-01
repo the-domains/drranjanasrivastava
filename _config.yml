@@ -32,11 +32,11 @@ navigation:
   - name: About
     id: 9447860f-2625-49f0-ac35-b535c6e5a1ba
     type: content
-  - name: NEJM
-    id: 116f95a4-5111-4d62-b097-6fe3e8804094
-    type: content
   - name: Contact
     id: f9af1fe5-36ca-425f-b22f-fe4874dac352
+    type: content
+  - name: NEJM
+    id: 116f95a4-5111-4d62-b097-6fe3e8804094
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
