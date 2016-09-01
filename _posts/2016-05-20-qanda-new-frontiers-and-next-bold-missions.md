@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:14:27.659Z'
+datePublished: '2016-08-30T11:28:03.009Z'
 sourcePath: _posts/2016-05-20-qanda-new-frontiers-and-next-bold-missions.md
 inFeed: true
 authors: []
@@ -20,7 +20,8 @@ author:
   - name: abcqanda
     url: 'https://www.youtube.com/user/abcqanda'
     avatar: {}
-dateModified: '2016-08-30T11:14:26.828Z'
+via: {}
+dateModified: '2016-08-30T11:28:01.819Z'
 title: Video Highlights
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KZ97_9mkTOg&feature=applinks'
@@ -73,7 +74,6 @@ description: >-
   pain, killer robots, women in STEM and 100 years into the future.
 inLanguage: en
 inNav: false
-via: {}
 starred: true
 url: video-highlights/index.html
 _context: 'http://schema.org'
