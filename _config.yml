@@ -44,6 +44,9 @@ navigation:
   - name: NEJM articles
     id: 116f95a4-5111-4d62-b097-6fe3e8804094
     type: content
+  - name: Video Highlights
+    id: 3b90d9f0-3e14-48fe-b4c4-1ae39e6f39ef
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
 collections:
