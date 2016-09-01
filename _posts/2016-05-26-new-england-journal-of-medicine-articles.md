@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T10:03:51.386Z'
+datePublished: '2016-08-30T10:04:31.437Z'
 sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T10:03:49.942Z'
+dateModified: '2016-08-30T10:04:29.707Z'
 title: >-
   The NEJM is published by the Massachusetts Medical Society and is among the
   most prestigious peer-reviewed medical journals and the oldest continuously
