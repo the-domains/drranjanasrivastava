@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T12:29:21.628Z'
+datePublished: '2016-08-30T12:34:05.481Z'
 sourcePath: _posts/2016-05-20-qanda-new-frontiers-and-next-bold-missions.md
 inFeed: true
 authors: []
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/abcqanda'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T12:29:20.885Z'
+dateModified: '2016-08-30T12:34:04.127Z'
 title: Video Highlights
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KZ97_9mkTOg&feature=applinks'
@@ -82,6 +82,14 @@ _type: VideoObject
 ---
 # Video Highlights
 
+### Q&A - New Frontiers & Next Bold Missions
+
+Monday, 3 August 2015 Panellists: Neil deGrasse Tyson, Astrophysicist & Science Communicator; Ranjana Srivastava, Oncologist and Author; Adam Spencer, Broadcaster and Maths Geek; and Beth Fulton, Mathematician and Marine Scientist, CSIRO. Our panel discussed: Adam Goodes & racism, bold missions, space exploration, alien life, sustainable oceans, climate modelling, cancer & pain, killer robots, women in STEM and 100 years into the future.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKZ97_9mkTOg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKZ97_9mkTOg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKZ97_9mkTOg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+### Catalyst: Stress and Cancer
+
+Every day in Australia 360 people learn they have cancer. It goes without saying it's a very stressful time. Stress as a cause of cancer has not been convincingly proven but recently researchers have been looking at how stress drives the spread of an existing cancer from the original tumour.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCWg90-oOZ3I%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCWg90-oOZ3I&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCWg90-oOZ3I%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
