@@ -38,6 +38,9 @@ navigation:
   - name: NEJM
     id: 116f95a4-5111-4d62-b097-6fe3e8804094
     type: content
+  - name: Books
+    id: b6580ab8-3fe8-4b85-8d2a-ff9c8d241d35
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b034ed8-66a3-4525-99d9-f153fc5ea7be.png
 collections:
