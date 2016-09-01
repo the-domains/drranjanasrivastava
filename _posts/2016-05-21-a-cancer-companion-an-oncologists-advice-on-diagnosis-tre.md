@@ -1,23 +1,28 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: "A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery: 9780226306643: Medicine & Health Science Books @ Amazon.com"
-datePublished: '2016-05-23T10:26:19.324Z'
-dateModified: '2016-05-22T06:19:30.627Z'
-author: []
-related: []
-app_links: []
-title: Books
+datePublished: '2016-08-30T08:55:24.964Z'
 sourcePath: _posts/2016-05-21-a-cancer-companion-an-oncologists-advice-on-diagnosis-tre.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+related: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-30T08:55:24.191Z'
+title: Books
+app_links: []
 publisher:
   name: Amazon
   domain: www.amazon.com
   url: 'http://www.amazon.com'
   favicon: 'http://www.amazon.com/favicon.ico'
+description: >-
+  A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and
+  Recovery: 9780226306643: Medicine & Health Science Books @ Amazon.com
+inLanguage: null
+inNav: true
+via: {}
 starred: false
 url: a-cancer-companion-an-oncologists-advice-on-diagnosis-tre/index.html
 _context: 'http://schema.org'
@@ -25,6 +30,8 @@ _type: MediaObject
 
 ---
 # Books
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cefb684c625e269c984aada18017106114d31af5.jpg" /><h1>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery</h1><p>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery: 9780226306643: Medicine &amp; Health Science Books @ Amazon.com</p></article>
 
 [Tell Me the Truth][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9366e7c-708f-40af-aff0-9d0517459b60.jpg)
@@ -44,13 +51,9 @@ We put much store in freedom of choice, but when it comes to our own medical dia
 The internet encourages people to self-diagnose and browse for expensive and often unnecessary specialist attention, while healthcare workers feel bound to provide whatever service a patient requests, even if they know it to be risky, of dubious value, or a delay of the inevitable. And as doctors increasingly specialise, they offer patients only a small part of the puzzle of their health, crucially lacking an overall picture.  
 Srivastava contends that the best medicine should begin with a good chat. But our doctors are often ill equipped for the task. In her frank and clear-eyed assessment of an unacknowledged crisis, she makes an impassioned case for healthcare training to incorporate effective communication skills alongside advanced medicine.
 
-'A humane treatise exploring the relationship between doctors and their patients'**_West Australian_**
+'A humane treatise exploring the relationship between doctors and their patients'_**West Australian**_
 
-**__**
-
-**_[A Cancer Companion][2]_**
-
-<article style=""><h1>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery</h1><p>A Cancer Companion: An Oncologist's Advice on Diagnosis, Treatment, and Recovery: 9780226306643: Medicine &amp; Health Science Books @ Amazon.com</p><img src="http://ecx.images-amazon.com/images/I/41DR%2BJdU83L.jpg" /></article>
+_**[A Cancer Companion][2]**_
 
 Cancer. It's the diagnosis no one wants to hear. Unfortunately though, these days most of us have known or will know someone who receives it. But what's next? With the diagnosis comes not only fear and uncertainty, but numerous questions, and a lot of unsolicited advice. With esteemed oncologist Ranjana Srivastava is here to help, bringing both experience and honesty to guide cancer patients and their families through this labyrinth of questions and treatments.
 
