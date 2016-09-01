@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:12:33.825Z'
+datePublished: '2016-08-30T11:13:36.882Z'
 sourcePath: _posts/2016-05-20-qanda-new-frontiers-and-next-bold-missions.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: abcqanda
     url: 'https://www.youtube.com/user/abcqanda'
     avatar: {}
-dateModified: '2016-08-30T11:12:32.833Z'
+dateModified: '2016-08-30T11:13:36.010Z'
 title: Video Highlights
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KZ97_9mkTOg&feature=applinks'
