@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T09:30:22.537Z'
+datePublished: '2016-08-30T09:45:45.782Z'
 sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:29:53.721Z'
+dateModified: '2016-08-30T09:45:34.757Z'
 title: New England Journal of Medicine articles
 id: 116f95a4-5111-4d62-b097-6fe3e8804094
 publisher: {}
@@ -34,9 +34,30 @@ _type: Blurb
 
 [Loneliness][5]
 
+[No Refuge for the Ailing][6]
+
+[Privacy and All That][7]
+
+[Speaking Up---When Doctors Navigate Medical Hierarchy][8]
+
+[The Art of Letting Go][9]
+
+[The Power Proxy][10]
+
+[The Service][11]
+
+[What's the Alternative? The Worldwide Web of Integrative Medicine][12]
+
 [0]: https://drive.google.com/file/d/0BxOSd6jlyjxzUmlQek9CaUxUeFk/view?usp=sharing
 [1]: https://drive.google.com/file/d/0BxOSd6jlyjxzWDZHNlNBZXIzV00/view?usp=sharing
 [2]: https://drive.google.com/file/d/0BxOSd6jlyjxzbkI2emd2SVJabjA/view?usp=sharing "Complicated Lives"
 [3]: https://drive.google.com/file/d/0BxOSd6jlyjxzUE14MVNJdWxKVkk/view?usp=sharing "Denial"
 [4]: https://drive.google.com/file/d/0BxOSd6jlyjxzNjlEeG1WQ0stTVU/view?usp=sharing "Dealing with Uncertainty"
 [5]: https://drive.google.com/file/d/0BxOSd6jlyjxzbHRjQ0tiQXEzaXM/view?usp=sharing "Loneliness"
+[6]: https://drive.google.com/file/d/0BxOSd6jlyjxzMno2WTZPTEtjTFE/view?usp=sharing "No Refuge for the Ailing"
+[7]: https://drive.google.com/file/d/0BxOSd6jlyjxzOFJHYXVnUEo3N1k/view?usp=sharing "Privacy and all that"
+[8]: https://drive.google.com/file/d/0BxOSd6jlyjxzeG13T3FfX21mNDQ/view?usp=sharing "Speaking Up"
+[9]: https://drive.google.com/file/d/0BxOSd6jlyjxzT3pkc3NNYVBiVmM/view?usp=sharing "The Art of Letting Go"
+[10]: https://drive.google.com/file/d/0BxOSd6jlyjxzOGEtakxYcndJRDA/view?usp=sharing "The Power Proxy"
+[11]: https://drive.google.com/file/d/0BxOSd6jlyjxzSXEwU1hNeDZqUFU/view?usp=sharing "The Service"
+[12]: https://drive.google.com/file/d/0BxOSd6jlyjxzbHBsaHhZN1F4WE0/view?usp=sharing "What's the Alternative"
