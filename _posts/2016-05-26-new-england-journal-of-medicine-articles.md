@@ -1,26 +1,28 @@
 ---
-datePublished: '2016-08-30T09:45:45.782Z'
-sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-30T09:45:34.757Z'
-title: New England Journal of Medicine articles
 id: 116f95a4-5111-4d62-b097-6fe3e8804094
-publisher: {}
+dateModified: '2016-08-30T09:48:17.555Z'
+title: >-
+  The NEJM is published by the Massachusetts Medical Society and is among the
+  most prestigious peer-reviewed medical journals and the oldest continuously
+  published one.
+datePublished: '2016-08-30T09:50:35.246Z'
+author: []
 description: A Bridge to Nowhere
+publisher: {}
+via: {}
 starred: true
-url: nejm/index.html
-_type: Blurb
+sourcePath: _posts/2016-05-26-new-england-journal-of-medicine-articles.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/570ef618-a5ad-4524-bf0b-2d48a78038be.png)
 
-# **New England Journal of Medicine articles**
-
 ## The NEJM is published by the Massachusetts Medical Society and is among the most prestigious peer-reviewed medical journals and the oldest continuously published one.
 
-### Ranjana's frequently features in the Perspectives section where she reflects on medicine, its practice and its impact on doctors, patients and society.
+### Ranjana's writings frequently feature in the Perspectives section where she reflects on medicine, its practice and its impact on doctors, patients and society.
 
 [A Bridge to Nowhere][0]
 
